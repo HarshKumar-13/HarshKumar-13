@@ -1,6 +1,8 @@
-![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RyYXNqN2trY210bjQxOHZuZnQzemR6amlzbDJqbmFqbm0xZTVkbiZlcD12MV92aWRlb3Nfc2VhcmNoJmN0PXY/CJRKhi0sixPav1P6MN/200h.gif)
-<h1 align="center">Hi 👋, I'm Harsh Kumar Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+    <img  src="https://pa1.aminoapps.com/6820/4766de2480568245390227f478c1715e147af463_hq.gif">
+</p>
+<h1 align="center">Hola 👋, I'm Harsh</h1>
+<h3 align="center">A passionate UI/UX and Frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkumar-13&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumar-13" /> </p>
 
