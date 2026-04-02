@@ -1,23 +1,78 @@
 <p align="center">
-    <img  src="https://pa1.aminoapps.com/6820/4766de2480568245390227f478c1715e147af463_hq.gif">
-</p>
-<h1 align="center">Hola 👋, I'm Harsh</h1>
-<h3 align="center">A passionate UI/UX and Frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkumar-13&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumar-13" /> </p>
-
-- 🌱 I’m currently learning **React and NextJs**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harsh-kumar-gupta-37320a202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-kumar-gupta-37320a202" height="30" width="40" /></a>
+  <img src="https://pa1.aminoapps.com/6820/4766de2480568245390227f478c1715e147af463_hq.gif" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h1 align="center">Hey 👋 I'm Harsh Kumar</h1>
+<h3 align="center">Frontend Developer • UI/UX Designer • Building modern web experiences</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkumar-13&show_icons=true&locale=en&layout=compact" alt="harshkumar-13" /></p>
+<p align="center">
+  Passionate about crafting beautiful, scalable, and high-performance digital products with modern frontend technologies.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshkumar-13&show_icons=true&locale=en" alt="harshkumar-13" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/harsh-kumar-gupta-37320a202">
+    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Kumar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=harshkumar-13&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar-13&" alt="harshkumar-13" /></p>
+---
+
+## 🚀 About Me
+
+- 🎨 UI/UX focused **Frontend Developer**
+- ⚡ Currently building with **React, Next.js, Tailwind CSS & Supabase**
+- 🌱 Learning **system design for scalable frontend apps**
+- 💡 Love transforming design concepts into real products
+- 🛠 Currently working on **production-grade web applications**
+- 📍 Based in India
+
+---
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,mysql,django,python" />
+</p>
+
+### 🎯 Design & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,docker,kubernetes,git,github" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshkumar-13&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar-13&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar-13&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+```txt
+Building scalable frontend products with:
+Next.js 16 • Tailwind v4 • TypeScript • Supabase
+```
+
+---
+
+## ✨ Fun Fact
+
+I enjoy turning complex UI ideas into pixel-perfect user experiences.
