@@ -1,84 +1,76 @@
 <p align="center">
-  <img src="https://pa1.aminoapps.com/6820/4766de2480568245390227f478c1715e147af463_hq.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Harsh%20Kumar&fontSize=42&fontAlignY=35&desc=Frontend%20Engineer%20•%20UI%20Systems%20Builder&descAlignY=55&animation=fadeIn&theme=dark" />
 </p>
 
-<h1 align="center">Harsh Kumar 👋</h1>
-<h3 align="center">Frontend Developer • UI Engineer • UI/UX Designer</h3>
-
-<p align="center">
-  Crafting premium digital experiences with modern frontend technologies, scalable design systems, and performance-first engineering.
-</p>
+<h3 align="center">Designing interfaces that feel premium, perform fast, and scale beautifully.</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/harsh-kumar-gupta-37320a202">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=harshkumar-13&label=Profile%20Views&style=for-the-badge&color=111827" />
+  <img src="https://img.shields.io/badge/Focus-Next.js%2016-111111?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=harshkumar-13&label=Views&style=for-the-badge&color=111111" />
 </p>
 
 ---
 
-<div align="center">
+## ✦ About
 
 ```yaml
 Name: Harsh Kumar
-Role: Frontend Developer + UI/UX Designer
-Specialization: Modern Web Interfaces
-Current Stack: Next.js • Tailwind • TypeScript • Supabase
+Role: Frontend Engineer
+Speciality: Premium UI Systems + Scalable Web Experiences
 Location: India
+Stack: Next.js • TypeScript • Tailwind • Supabase
 ```
 
-</div>
+I build **modern web interfaces** that combine product thinking, visual precision, and engineering performance.
+
+Focused on:
+- premium UI systems
+- frontend architecture
+- responsive product experiences
+- design-first engineering
+- performance optimization
 
 ---
 
-## ✨ About Me
-
-- 🎨 Design-first frontend developer
-- ⚡ Specialized in **modern UI architecture**
-- 🚀 Building scalable web experiences with **Next.js 16**
-- 🎯 Focused on **pixel-perfect interfaces**
-- 🧠 Learning advanced **frontend system design**
-- 💎 Passionate about clean and premium user experiences
-
----
-
-## 🛠 Tech Stack
+## ✦ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,supabase,mysql,python,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,figma,python,docker,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## ✦ GitHub Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshkumar-13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar-13&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshkumar-13&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar-13&theme=black-ice&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar-13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-## 🔥 Current Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js%2016-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20v4-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%20Engineering-Premium-black?style=for-the-badge" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar-13&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af" />
 </p>
 
 ---
 
-## 💡 Philosophy
+## ✦ Current Direction
 
 <p align="center">
-  <i>"Good design is invisible, great frontend makes it unforgettable."</i>
+  <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20v4-000000?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%20Engineering-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design%20Systems-000000?style=flat-square" />
+</p>
+
+---
+
+## ✦ Philosophy
+
+<p align="center">
+  <i>“Great products are built where design precision meets engineering discipline.”</i>
 </p>
 
 ---
