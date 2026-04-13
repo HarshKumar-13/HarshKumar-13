@@ -1,5 +1,5 @@
 <p align="center">
-    <img  src="https://pa1.aminoapps.com/6820/4766de2480568245390227f478c1715e147af463_hq.gif">
+    <img  src="https://giffiles.alphacoders.com/220/220183.gif">
 </p>
 <h1 align="center">Hola 👋, I'm Harsh</h1>
 <h3 align="center">A passionate UI/UX and Frontend developer from India</h3>
