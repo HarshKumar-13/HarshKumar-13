@@ -1,44 +1,33 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Harsh%20Kumar&fontSize=44&fontAlignY=35&desc=Frontend%20Engineer%20•%20React%20•%20Next.js%20•%20UI%20Systems&descAlignY=58&animation=fadeIn&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Harsh%20Kumar&fontSize=48&fontAlignY=35&desc=Frontend%20Engineer%20•%20UI%20Architect%20•%20Building%20Premium%20Experiences&descAlignY=58&animation=fadeIn&theme=dark" />
 </p>
 
 <h3 align="center">
-Building high-performance frontend systems with premium user experiences.
+  Crafting interfaces that feel premium, perform fast, and scale beautifully.
 </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/harsh-kumar-gupta-37320a202">
-    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Kumar-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Frontend%20Developer-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Frontend%20Developer-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Bangalore-0f172a?style=for-the-badge" />
 </p>
 
 ---
 
-## About Me
+## ✦ whoami
 
-```yaml
-Name: Harsh Kumar
-Role: Frontend Engineer
-Primary Stack:
-  - React.js
-  - Next.js
-  - TypeScript
-  - Tailwind CSS
-Backend:
-  - Supabase
-  - REST APIs
-Tools:
-  - Figma
-  - GitHub
-  - Docker
-  - VS Code
-Focus:
-  - Frontend Architecture
-  - Scalable UI Systems
-  - Design Systems
-  - Performance Optimization
-Location: Bangalore, India
+```ts
+const harsh = {
+  role: "Frontend Engineer",
+  speciality: "Premium UI Systems + Scalable Web Apps",
+  stack: ["Next.js", "React", "TypeScript", "Tailwind", "Supabase"],
+  currentlyBuilding: "High-converting product interfaces",
+  focus: [
+    "UI Architecture",
+    "Responsive Experiences",
+    "Performance Optimization",
+    "Design Systems"
+  ]
+}
