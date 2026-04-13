@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkumar-13&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumar-13" /> </p>
 
-- 🌱 I’m currently learning **React and NextJs**
+- 🌱 I’m currently learning **NextJS and Cloud Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
