@@ -1,8 +1,10 @@
+
+<h1 align="center">Hola 👋, I'm Harsh</h1>
+<h3 align="center">A passionate UI/UX and Frontend developer from India</h3>
+
 <p align="center">
     <img  src="https://giffiles.alphacoders.com/220/220183.gif">
 </p>
-<h1 align="center">Hola 👋, I'm Harsh</h1>
-<h3 align="center">A passionate UI/UX and Frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkumar-13&label=Profile%20views&color=0e75b6&style=flat" alt="harshkumar-13" /> </p>
 
